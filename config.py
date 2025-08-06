@@ -67,7 +67,7 @@ class Config:
     YOUTUBE_URL = "https://www.youtube.com"
     
     # Search settings
-    DEFAULT_SEARCH_TERM = "latest news"
+    DEFAULT_SEARCH_TERM = "KDE Linux"
     
     # Timeouts (in seconds)
     PAGE_LOAD_TIMEOUT = 10
